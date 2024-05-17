@@ -1,8 +1,18 @@
+``` c#
+var message = "Greetings!";
 
-<h3 align="center">  Greetings, I'm Lucca Nogueira </h3>
+var me = new Profile
+{
+    Name = "Lucca Nogueira",
+    Role = "Backend Developer",
+    Languages = ["C#", "Javascript", "Python", "Java"],
+    Storage = ["Sql", "Cassandra", "Redis", "Elastic Search"],
+    Cloud = ["Azure"],
+    DataStreaming = ["Kafka", "Event Hub"],
+    LinkedIn = "https://www.linkedin.com/in/luccanog/",
+};
+```
 
-<p align="center">
- 👨‍💻 Checkout my  <a href="https://www.linkedin.com/in/luccanog/">LinkedIn</a> 
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=luccanog&show_icons=true&theme=transparent" height="200" alt="luccanog"/>  
-</p>
+Welcome to my GitHub profile! 🙂  
+I'm a passionate backend developer with a love for building scalable and efficient systems.  
+Here, you'll find a collection of my projects and contributions, feel free to reach me out on LinkedIn!
