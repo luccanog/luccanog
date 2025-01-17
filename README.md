@@ -7,7 +7,7 @@ var me = new Profile
     Role = "Backend Developer",
     Languages = ["C#", "Javascript", "Python", "Java"],
     Storage = ["Sql", "Cassandra", "Redis", "Elastic Search"],
-    Cloud = ["Azure"],
+    Cloud = ["Azure, AWS"],
     DataStreaming = ["Kafka", "Event Hub"],
     LinkedIn = "https://www.linkedin.com/in/luccanog/",
 };
